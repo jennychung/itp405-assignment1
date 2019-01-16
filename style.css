@@ -1,0 +1,26 @@
+body{
+  margin:10%;
+}
+
+h1{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+button{
+  border-radius: 8px;
+  box-shadow: 0;
+  /* background-color: #ADD8E6; */
+  background-color: #FFFFFF;
+  /* border: 2px solid #ADD8E6; */
+  border: none;
+  /* color: white !important; */
+  font-size: 24pt;
+  position: absolute;
+  margin-top: 20px;
+}
+
+#allgenres{
+  text-align: center;
+  font-size: 18pt;
+}
